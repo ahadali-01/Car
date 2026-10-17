@@ -1,0 +1,6 @@
+{
+  "name": "AUTO CRAFT 3D - Precision Performance Workshop",
+  "description": "Precision diagnostics, expert restoration, and performance-focused automotive care. Developed & Designed by Ahad Ali Nisar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
